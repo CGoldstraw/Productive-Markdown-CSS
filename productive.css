@@ -153,6 +153,21 @@ textarea {
   max-width: 100%;
 }
 
+::-webkit-scrollbar {
+  width: 14px;
+  height: 14px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2b3256; 
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2c345f; 
+}
+
+
 @media print {
   *,
   *:before,
