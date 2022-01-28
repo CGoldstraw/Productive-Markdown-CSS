@@ -1,9 +1,8 @@
 # Productive Theme
 ----
-A css theme made for Markdown text, the GitHub repository can be found [here](https://github.com/CGoldstraw/Productive-Markdown-CSS).
+A css theme made for Markdown text, a sample webpage for this theme can be found [here](https://www.charliegoldstraw.com/projects/productive).
 ## Example
 ![Example Webpage](assets/example.png)
-A sample webpage for this theme can be found [here](https://www.charliegoldstraw.com/projects/productive).
 
 The project contains `productive.css`, which is a general css theme for the basic Markdown components, and `productive-hljs.css`, which is a [hljs](https://highlightjs.org/) theme to add syntax highlighting to code blocks.
 
