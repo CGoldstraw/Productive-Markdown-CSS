@@ -111,6 +111,10 @@ pre code {
   font-size: 0.8rem;
 }
 
+pre {
+  background-color:#10121E;
+}
+
 code {
   background-color: #10121E;
   color: #009DDC;
@@ -152,21 +156,6 @@ select,
 textarea {
   max-width: 100%;
 }
-
-::-webkit-scrollbar {
-  width: 14px;
-  height: 14px;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #2b3256; 
-  border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #2c345f; 
-}
-
 
 @media print {
   *,
