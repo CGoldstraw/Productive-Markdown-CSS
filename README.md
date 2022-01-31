@@ -1,6 +1,6 @@
 # Productive Theme
 ----
-A css theme made for Markdown text, a sample webpage for this theme can be found [here](https://www.charliegoldstraw.com/projects/productive).
+A css theme made for Markdown text, a sample webpage for this theme can be found [here](https://productive.charliegoldstraw.com).
 ## Example
 ![Example Webpage](assets/example.png)
 
